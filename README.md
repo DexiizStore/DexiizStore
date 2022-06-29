@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/DexiizStore/6bcbeb65ae40a2bcfa053ff07c9f3a9b/raw/f41bfeefdc137553b1481f4d02a15f739286307f/githubCard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Rafael-OliveiraC/6bcbeb65ae40a2bcfa053ff07c9f3a9b/raw/f41bfeefdc137553b1481f4d02a15f739286307f/githubCard.svg"/>
 <h1 align="left">Hi, I'm Rafael Oliveira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dexiizstore&color=blue&style=for-the-badge" alt="Profile views" /> </p>
 
@@ -26,8 +26,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=dexiizstore&show_icons=true&theme=vision-friendly-dark" alt="DexiizStore's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexiizstore&layout=compact&theme=vision-friendly-dark" alt="DexiizStore's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Rafael-OliveiraC&show_icons=true&theme=vision-friendly-dark" alt="DexiizStore's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-OliveiraC&layout=compact&theme=vision-friendly-dark" alt="DexiizStore's most languages"/>
 </p>
 
 <br><br>
